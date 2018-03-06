@@ -17,61 +17,32 @@
       <h1>Mohit Israni</h1>
     </header>
 
-    <div id="container">
-
-      <article>
-        <section class="post-head">
-            <h2>Links</h2>
-          <small>            
-            Posted on <time datetime="2018-02-14">February 14th, 2018</time>.
-          </small>
-        </section>
-
-        <section class="post-body">
-          <p>
-            <ol>
-              <li><a href = "https://www.linkedin.com/in/misrani">Linkedin</a></li>
-              <li><a href = "https://mohitisrani.github.io/Resume">Resume</a></li>
-              <li><a href = "https://www.facebook.com/isranimohit">Facebook</a></li>
-            </ol>
-          </p>
-
-        </section>
-
-        <section class="post-foot">
-          <p>Filed under general</p>
-          <p>Written by Mohit</p>
-        </section>
-      </article>
-
-
-      <article>
-          <section class="post-head">
-              <h2>Online Courses</h2>
-            <small>            
-              Posted on <time datetime="2017-11-04">Novemer 4th, 2017</time>.
-            </small>
-          </section>
-  
-          <section class="post-body">
-            <p>
-              <ul>
-                <li><a href = "https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/learn/v4/overview">Elixir and Phoenix Bootcamp</a></li>
-                <li><a href = "https://www.udemy.com/web-developer-course">Web Developer Course</a></li>
-                <li><a href = "https://www.udemy.com/spark-and-python-for-big-data-with-pyspark">Spark &amp; Python for big data with PySpark</a></li>
-                <li><a href = "https://www.udemy.com/the-python-mega-course/learn/v4/t/lecture/7849754?start=30">Python Mega Course</a></li>
-
-              </ul>
-            </p>
-        </section>
-  
-          <section class="post-foot">
-            <p>Filed under general</p>
-            <p>Written by Mohit</p>
-          </section>
-        </article>
-
-    </div> <!-- #container -->
+    <SCRIPT>
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Please Enter Your Password',' ');
+while (testV < 3) {
+if (!pass1) 
+history.go(-1);
+if (pass1.toLowerCase() == "letmein") {
+alert('You Got it Right!');
+window.open('https://mohitisrani.github.io/mohitisrani.github.io/MOJITO');
+break;
+} 
+testV+=1;
+var pass1 = 
+prompt('Access Denied - Password Incorrect, Please Try Again.','Password');
+}
+if (pass1.toLowerCase()!="password" & testV ==3) 
+history.go(-1);
+return " ";
+} 
+</SCRIPT>
+<CENTER>
+<FORM>
+<input type="button" value="Enter Protected Area" onClick="passWord()">
+</FORM>
+</CENTER>
 
     <footer>
       <p>&copy;2017 &bull; Mohit Israni</p>
