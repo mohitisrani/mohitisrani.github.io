@@ -1,0 +1,392 @@
+	
+    
+    <div class="container sections-wrapper">
+        <div class="row">
+            <div class="primary col-md-8 col-sm-12 col-xs-12">
+                <section class="about section">
+                    <div class="section-inner">
+                        <h2 class="heading">About Me</h2>
+                        <div class="content">
+                            <p>A Student & a Software developer having a strong background in programming for inter-disciplinary products. I am 
+							experienced in creating and leading teams to implement software solutions using advanced agile methodologies amd modern design patterns. 
+							Being an artist at heart, I love to make interactive applications and Games. I fell in love with Object Oriented Programming during my highschool and since then I have coded and tried solving random problems with it. 
+							I enjoy implementing data structures with C++, C# and Java. I am proficient in using C# .NET technologies and Unity3D. </p>    
+         
+                            <p>When I am not working, I am either playing my guitar or discussing some random topic with my friends</p>
+                         
+                        </div><!--//content-->
+                    </div><!--//section-inner-->                 
+                </section><!--//section-->
+                
+                <section class="skills section">
+                    <div class="section-inner">
+                        <h2 class="heading">Skills</h2>
+                        <div class="content">
+                            <p class="intro">
+                              </p>
+                            
+                            <div class="skillset">
+                               
+							   <div class="item">
+                                    <h3 class="level-title">Languages I know by heart: <span class="level-label">Advanced</span></h3>
+                                    <h4>C, C++, C#, Java, javascript</h4> 
+                                    <hr>
+                                    <h3 class="level-title">Technologies I am good at:<span class="level-label">Advanced</span></h3>
+                                    <h4>Unity 3D, OpenGL</h4> 
+                                    <h4>.NET/.NET core technolgies (WPF,WinForms), ASP.NET MVC (Web API, Entity Framework, SQL server)</h4>
+                                    <h4>RESTful services, SOAP  </h4>
+                                    <hr>
+                                    <h3 class="level-title">Tools I like to use:<span class="level-label">Advanced</span></h3>
+                                    <h4>Git, Gerrit, JIRA, Jenkins (CI), Bash, PowerShell, Visual Studio, Latex. </h4>
+                               </div>
+								
+								
+                            </div>              
+                        </div><!--//content-->  
+                    </div><!--//section-inner-->                 
+                </section><!--//section-->
+
+
+
+               <section class="latest section">
+                    <div class="section-inner">
+                        <h2 class="heading">Latest Projects</h2>
+                        <div class="content">    
+                                               
+                            <div class="item featured text-center">
+                                <h3 class="title"><a href="https://play.google.com/store/apps/details?id=com.nmnstudios.rushvr&hl=en" target="_blank">Rush VR for Cardboard</a></h3>
+                                <p class="summary">A Virtual Reality game for Google Cardboard</p>
+                                <div class="featured-image">
+                                    <a href="https://play.google.com/store/apps/details?id=com.nmnstudios.rushvr&hl=en" target="_blank">
+                                    <img class="img-responsive project-image" src="assets/images/projects/3.jpg" alt="project name" />
+                                    </a>
+                                    <div class="ribbon">
+                                        <div class="text">My favourite</div>
+                                        </div>
+                                    </div>
+                                    
+                                <div class="desc text-left">                                    
+                                    <p>Rush VR for cardboard is a VR based game for Android Smartphones playable via Google Cardboard. It has more than 4000 downloads and 3.5+  over all rating. It got nominated for Nasscom's 'Student Game of the Year' award and made it to the top five.</p>
+                                    <p>It is made using Unity 3D with scripting done in C#. I started making to to learn new concepts of VR and to play around with the new Google Cardboard(2015)</p>
+                                </div><!--//desc-->  
+<a href='https://play.google.com/store/apps/details?id=com.nmnstudios.rushvr&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width= "30%" height="30%" class="img-fluid" alt="Responsive image" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>								
+                                </div><!--//item-->
+                            
+							
+							<hr>
+							
+                            <div class="item row">
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="#" target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/asm2.png" alt="project name" />
+                                </a>
+                                <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                    <h3 class="title">JVM-ASM based Compiler made using Java</a></h3>
+                                    <p>Wrote a scanner, top-down parser and type checker using visitor design to implement a compiler.</p>
+                                    <p>Technologies Used: Java, ASM, JVM bytecode manipulation</p>
+									<hr>
+									<p><a class="more-link" href="https://github.com/namanrajpal/Java-Based-Compiler-Using-ASM" target="_blank"><i class="fa fa-external-link"></i> Click here for Source Code on Github</a></p>
+                                </div><!--//desc-->                          
+                            </div><!--//item-->
+							<hr>
+
+							<div class="item row">
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="#" target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/ARScreenshots.jpg" alt="project name" />
+                                </a>
+                                <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                    <h3 class="title">Furniture AR - Product Rating Tool using Augmented Reality</a></h3>
+                                    <p>Built to conduct a study on determining efficiency of AR in changing user perception. Users can rate furniture products by actually looking at them.</p>
+                                    <p>Technologies Used: C#, Unity3D, RESTful services</p>
+                                    
+									<hr>
+									<p><a class="more-link" href="https://github.com/namanrajpal/FurnitureAR" target="_blank"><i class="fa fa-external-link"></i> Click here for Source Code on Github</a></p>
+                                </div><!--//desc-->                          
+                            </div><!--//item-->
+							<hr>
+                           
+						   <div class="item row">
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="#" target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/dialog.png" alt="project name" />
+                                </a>
+                                <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                    <h3 class="title">SpeakBuy - Android based Conversational Agent</a></h3>
+                                    <p>Made with Android Studio using Java, It is an application providing information about products on Amazon.com 
+									 by having a spoken conversation with User.I have used Amazon's Product Advertisement API(AWS) to fetch product data.</p>
+									<hr>
+									<p><a class="more-link" href="https://github.com/namanrajpal/SpeakBuy-Android-Chat-Bot" target="_blank"><i class="fa fa-external-link"></i> Click here for Source Code on Github</a></p>
+                                </div><!--//desc-->                          
+                            </div><!--//item-->
+							<hr>
+									
+							<div class="item row">
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="#" target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/ptsd.png" alt="project name" />
+                                </a>
+                                <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                    <h3 class="title">Virtual Environments for Therapeutic Solutions</a></h3>
+                                    <p>Virtual grocery store for war veterans suffering from Post-Traumatic Stress Disorder (PTSD). 
+									It is a simluation of day-to-day shopping scenario where cognitive challenges like finding items on a grocery list and emapathetic interactions with other people provides an Exposure therapy. The virtual grocery store provides a safe environment for therapists
+									to expose affected veterans.Skills used for the project are Unity3D and C#. I have worked on implementing scripts providing data for evaluation metrics database and pertinent GUI helping therapists monitor progress over multiple therapy sessions. </p>
+									<hr>
+									<p><a class="more-link" href="ufverg.com/projects" target="_blank"><i class="fa fa-external-link"></i> Click here for the more info</a></p>
+                                </div><!--//desc-->                          
+                            </div><!--//item-->
+							<hr>
+									
+							 <div class="item row">
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="https://bitbucket.org/namanrajpal16/ordering-system-using-augmented-reality" target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/order.jpg" alt="project name" />
+                                </a>
+                                <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                    <h3 class="title"><a href="https://bitbucket.org/namanrajpal16/ordering-system-using-augmented-reality" target="_blank">Ordering System for a restaurant using Augmented Reality</a></h3>
+                                    <p>It is an Android application or rather a digital menu where users can schedule a pickup or delievery of whatever they want to order from the menu. Menu is interactive and detailed. It was designed after conducting surveys and User studies on the current problems. One iof the prominent features it has that user can actually see the food item on there table before ordering using Augmented reality technologies.
+									This project was done as a Class project for Human-Computer Interaction Spring 2016 at UF. </p>
+                                    <iframe width="auto" height="auto" src="https://www.youtube.com/embed/55kne1s7D0o" frameborder="0" allowfullscreen></iframe>
+                                    <hr>
+									<p>Source Code :<a class="more-link" href="https://bitbucket.org/namanrajpal16/ordering-system-using-augmented-reality" target="_blank"><i class="fa fa-external-link"></i>Find it on BitBucket</a></p>
+                                </div><!--//desc-->                          
+                            </div><!--//item-->
+							<hr>
+									
+                            <div class="item row">
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="#" target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/php2.jpg" alt="project name" />
+                                </a>
+                                <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                    <h3 class="title">Curriculam Management System for Elementry Schools</a></h3>
+                                    <p>It is a Group project done along with other three students for Database Management Systems Class Spring 2016. It is a web based application made using php and remote Oracle database at backend. Database consisted of more than 600,000 tuples. I along with my team wrote Procedure and queries to fetch and analyze data records to create an effective platform for people and parents to compare schools and their infants performance using stats provided.</p>
+                                    <hr>
+									<p><a class="more-link" href="#" target="_blank"><i class="fa fa-external-link"></i> Click here for the Source code</a></p>
+                                </div><!--//desc-->                          
+                            </div><!--//item-->
+							<hr>
+									
+                            <div class="item row">
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="#" target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/java.png" alt="project name" />
+                                </a>
+                                <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                    <h3 class="title">Optimized Red Black Tree Using Java</a></h3>
+                                    <p>Coded in Java, This project was a part of coursework with a requirement of creating a red black tree data structure with optimized functions for insertion and deletion. We weere given sorted input and thus we created tree operations to work in linear time. </p>
+                                    <hr>
+									<p><a class="more-link" href="#" target="_blank"><i class="fa fa-external-link"></i> Click here for the Source code</a></p>
+                                </div><!--//desc-->                          
+                            </div><!--//item-->
+                           
+                            <hr>
+									
+                            <div class="item row">
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="https://sourceforge.net/projects/dodgetheplanes/" target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/icon.png" alt="project name" />
+                                </a>
+                                <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                    <h3 class="title"><a href="https://sourceforge.net/projects/dodgetheplanes/" target="_blank">Dodge the planes - Game using Java Language</a></h3>
+                                    <p> It is an Android Game application made using Java framework called LibGDX. Followed modern design pattern(MVC) while structing the project. Java soruce code created can be deplayed to multiple platforms.</p>
+                                    <iframe width="auto" height="auto" src="https://www.youtube.com/embed/hazsOi1IsEM" frameborder="0" allowfullscreen></iframe>
+                                    <hr>
+									<p><a class="more-link" href="https://sourceforge.net/projects/dodgetheplanes/" target="_blank"><i class="fa fa-external-link"></i> Find it on SourceForge</a></p>
+                                </div><!--//desc-->                          
+                            </div><!--//item-->   
+<hr>
+																
+                            <div class="item row">
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="#" target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/php.png" alt="project name" />
+                                </a>
+                                <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                    <h3 class="title"><a href="#" target="_blank">Dev-Match, Online Platform for Student projects</a></h3>
+                                    <p>It is an Online platform for students to search and post relevant projects to find out teammates. This project was completed in 2014 i.e. 2nd year of my engineering undergrad. It was made using php and MySQL at the backend.</p>
+                                    
+                                </div><!--//desc-->                          
+                            </div><!--//item-->
+                           
+                        </div><!--//content-->  
+                    </div><!--//section-inner-->                 
+                </section><!--//section-->
+                
+                <section class="projects section">
+                    <div class="section-inner">
+                        <h2 class="heading">Other Projects</h2>
+                        <div class="content">
+                            <div class="item">
+                                <h3 class="title"><a href="#">Infinity - Keeping you High!</a></h3>
+                                <p class="summary"> It is game for Android made using Unity3D. Scripted in C#. It was the first android application I deployed on play store. Learned to Integrate Google play games services.</p>
+                                <p><a class="more-link" href="https://play.google.com/store/apps/details?id=com.nmnstudios.infinity&hl=en" target="_blank"><i class="fa fa-external-link"></i> Get it on Play Store</a></p>
+                            </div><!--//item-->
+                        
+                        </div><!--//content-->  
+                    </div><!--//section-inner-->                 
+                </section><!--//section-->
+                
+                
+           
+            </div><!--//primary-->
+            <div class="secondary col-md-4 col-sm-12 col-xs-12">
+                 <aside class="info aside section">
+                    <div class="section-inner">
+                        <h2 class="heading sr-only">Basic Information</h2>
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-map-marker"></i><span class="sr-only">Location:</span>Gainesville, Florida, USA</li>
+                                <li><i class="fa fa-envelope-o"></i><span class="sr-only">Email:</span><a href="#">namanrajpal16@gmail.com</a></li>
+								
+                                <li><i class="fa fa-link"></i><span class="sr-only">Mobile Number:</span><a href="#">+13528710843</a></li>
+                            </ul>
+                        </div><!--//content-->  
+                    </div><!--//section-inner-->                 
+                </aside><!--//aside-->
+                
+				 <aside class="education aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">Education</h2>
+                        <div class="content">
+                            <div class="item">                      
+                                <h3 class="title"><i class="fa fa-graduation-cap"></i> Master of Science</h3>
+                                <h3 class="title-university"> University of Florida<span class="year" (Graduating in Fall 2017)</span></h4>
+                                <h4 class="university"> Computer Science Major, GPA:3.7</h4>
+								<h4 class="university"> Course work: Analysis of Algorithms, Computer networks, Dialog Systems, Advanced Data structures,
+                                     Distributed Multimedia Systems, Database Management Systems, Human Centered Computing
+                                     </h4>
+                            </div><!--//item-->
+							
+							<div class="item">
+                                <h3 class="title"><i class="fa fa-graduation-cap"></i> Bachelor of Technology</h3>
+                                <h4 class="title-university"> Jaypee University of Engg. & Tech., Guna, India<span class="year">(2012-2016)</span></h4>
+                                <h4 class="university"> Course work: Computer Graphics, Data Mining, Artificial Intelligence, Theory of Computation, Operating Systems</h4>
+                            </div><!--//item-->
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </aside><!--//section-->
+				
+				
+				
+				
+				
+				<aside class="experience aside section">
+				<div class="section-inner">
+                        <h2 class="heading">Experience</h2>
+                        <div class="content">
+                            <div class="item">
+                                <h3 class="title">Summer Software Intern, Magic Leap<br><span class="place"><a href="http://www.magicleap.com"> Magic Leap , USA</a><br></span> <span class="year">May 2017 - August 2017</span></h3>
+                                <p>Worked on developing Integration testing applications using C# and Unity to cover more than 800 test cases. </p>
+                                <p>Worked on automating building & testing SDK artifacts through CI tools and APIs using C# (.NET core) which helped in reducing testing time by 50% for test engineers.</p> 
+                                <p>Collaborated with SDETs to enhance automation framework.</p> 
+                            </div><!--//item-->
+
+							<div class="item">
+                                <h3 class="title">Graduate Assistant<br><span class="place"><a href="http://digitalworlds.ufl.edu/"> Digital Worlds Institute, University of Florida, Gainesville, USA</a><br></span> <span class="year">January 2017 - May 2017</span></h3>
+                                <p>For Spring 2017, I worked as an Adjunct Instructor teaching over 80 in-class and online students a course on Game Design Practices and Programming with C#.</p>
+                                <p>Worked on improving my leadership and communication skills</p>
+                            </div><!--//item-->
+						
+                            <div class="item">
+                                <h3 class="title">Graduate Research Assistant<br><span class="place"><a href="http://www.ufverg.com"> Virtual Experience Research Group, University of Florida, Gainesville, USA</a><br></span> <span class="year">August 2016 - December 2016</span></h3>
+                                <p>During Fall 2016, I worked on a VA funded project for veterans comprising virtual scenarios like virtual grocery store and therapist panels. Virtual grocery store is a simulation that provides exposure therapy solutions by exposing veterans to daily cognitive challenges. </p>
+                                <p>Implemented VR UI and GAze based interactions</p>
+                                <p>Implemented database to store metrics using SQLite and C#</p>
+                            </div><!--//item-->
+							<div class="item">
+                                <h3 class="title">Android Development Trainee<br><span class="place"><a href="#"> Oxient Technologies, Noida, India</a><br></span> <span class="year">May 2015 - July 2015</span></h3>
+                                <p>Learned about several concepts of Android application development and SDLC</p>
+                            </div><!--//item-->
+                            <div class="item">
+                                <h3 class="title">Intern<br><span class="place"><a href="#"> Reliance Games, Pune, India</a><br></span> <span class="year">January  2015</span></h3>
+                                <p>Completed training modules to learn more about Game design and development. Worked in a team of fellow interns to improve overall game performce by optimizing physics based Game mechanics and Profiling</p>
+                            </div><!--//item-->
+            
+                            <div class="item">
+                                <h3 class="title">php Trainee<br><span class="place"><a href="#"> Bhatia Technologies, Agra, India</a><br></span> <span class="year">May 2014 - July 2014</span></h3>
+                                <p>Completed Training course in php. Learned the concepts of back-end web server programming. Also learned to manipulate dynamic databases by creating SQL procedures,constraints and queries.</p>
+						
+                            </div><!--//item-->
+                            
+                        </div><!--//content-->  
+                    </div><!--//section-inner-->  
+				
+				</aside>
+				
+				
+				
+				
+				
+                
+                
+                <aside class="testimonials aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">Testimonials</h2>
+                        <div class="content">
+                            <div class="item">
+                                <blockquote class="quote">                                  
+                                    <p><i class="fa fa-quote-left"></i>Naman has worked with us as an Intern. 
+									He is really dedicated and stays motivated all the time. He learns really quickly. His passion for work is superficial. 
+									</p>
+                                </blockquote>                
+                                <p class="source"><span class="name">Amitabh Lakhera</span><br /><span class="title">Development Director, Reliance Games, Pune </span></p>                                                             
+                            </div><!--//item-->
+                            
+                          
+                            
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </aside><!--//section-->
+                
+               
+                            
+                <aside class="languages aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">Languages</h2>
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li class="item">
+                                    <span class="title"><strong>English:</strong></span>
+                                    <span class="level">Proficient <br class="visible-xs"/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-half"></i> </span>
+                                </li><!--//item-->
+                                <li class="item">
+                                    <span class="title"><strong>Hindi:</strong></span>
+                                    <span class="level">Proficient <br class="visible-sm visible-xs"/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></span>
+                                </li><!--//item-->
+                            </ul>
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </aside><!--//section-->
+                
+				
+				<aside class="list conferences aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">Awards & Contributions</h2>
+                        <div class="content">
+                            <ul class="list-unstyled">
+								<li><i class="fa fa-university"></i> <a href="#" target="_blank">Achievement award scholarship, Fall 2016, University of Florida </a> (Gainesville, FL, USA)</li>
+								<li><i class="fa fa-trophy"></i> <a href="#" target="_blank">Mentor, Gator VR, Virtual Reality Club, University of Florida</a> (Gainesville, FL, USA)</li>
+                                
+                                <li><i class="fa fa-trophy"></i> <a href="http://gamedev.nasscom.in/awards/ngf/2015" target="_blank">Nominee Top 5, Student Game of the year Category, Nasscom Game Developer Conference 2016 , Pune</a> (Pune, India)</li>
+                                <li><i class="fa fa-certificate"></i> <a href="#">Speaker at an Info-Session held at Technical Festival - Dextra</a> (Guna,India)</li>
+								<li><i class="fa fa-trophy"></i> <a href="#" target="_blank">City Rank 1, National Cyber Olympiad, 2009 </a> (Agra, India)</li>
+                                <li><i class="fa fa-child"></i> <a href="#" target="_blank">Member, People for Animals</a> (Agra, India)</li>
+                                
+							</ul>
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </aside><!--//section-->
+              
+                
+                <aside class="list conferences aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">Conferences and other sessions</h2>
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-calendar"></i> <a href="#" target="_blank">Nasscom Game Developer Conference 2015 , Pune</a> (Pune, India)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="#">Nasscom Game Developer Conference 2016 , Pune</a> (Pune, India)</li>
+								<li><i class="fa fa-calendar"></i> <a href="#">Speaker at an Info-Session held at Technical Festival - Dextra</a> (Guna,India)</li>
+                            </ul>
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </aside><!--//section-->
+                
+               
+              
+            </div><!--//secondary-->    
+        </div><!--//row-->
+    </div><!--//masonry-->
+	
+	
